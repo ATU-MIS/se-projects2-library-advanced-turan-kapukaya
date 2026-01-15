@@ -1,0 +1,17 @@
+Proje Tanımı: Bu sistem, manuel yürütülen yoklama ve öğrenci takip süreçlerini dijitalleştirerek hata payını en aza indirmeyi hedefler.
+
+Paydaşlar: Akademisyenler, Bölüm Sekreterliği, Öğrenciler.
+
+Fonksiyonel Gereksinimler:
+
+Sistem, yeni öğrenci kaydı yapabilmelidir.
+
+Öğrenci numarası ile arama yapılabilmelidir.
+
+Devamsızlık verileri kalıcı olarak (JSON/Veritabanı) saklanmalıdır.
+
+Fonksiyonel Olmayan Gereksinimler:
+
+Veri güvenliği ve bütünlüğü sağlanmalıdır.
+
+Kullanıcı arayüzü, teknik bilgisi az olan kullanıcılar için sade olmalıdır.
